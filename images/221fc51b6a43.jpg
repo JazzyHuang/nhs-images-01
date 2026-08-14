@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 849 849">
+  <title>OCH_Madison_ManhattanSquare_FP_X_Res1_ThirdFloor_OW - 2026-04-29</title>
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-6 {
+        stroke: #888;
+      }
+
+      .cls-1, .cls-3, .cls-6, .cls-7, .cls-8 {
+        stroke-width: .5px;
+      }
+
+      .cls-1, .cls-5, .cls-9, .cls-7 {
+        stroke-miterlimit: 500;
+      }
+
+      .cls-2 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-9, .cls-7, .cls-8 {
+        stroke: #000;
+      }
+
+      .cls-2, .cls-4, .cls-6, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4, .cls-5, .cls-9 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-10 {
+        font-family: ArialMT, Arial;
+        font-size: 16px;
+      }
+
+      .cls-9, .cls-8 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="fixtures">
+    <g id="b_shower">
+      <rect id="cnst" class="cls-1" x="341.52" y="344.73" width="113.61" height="59.55" transform="translate(23.82 772.83) rotate(-90)"/>
+      <line id="slide_door" class="cls-1" x1="431.81" y1="317.39" x2="431.81" y2="431.61"/>
+      <g id="shwr_stnd">
+        <line class="cls-1" x1="368.55" y1="431.31" x2="428.1" y2="317.7"/>
+        <line class="cls-1" x1="368.55" y1="317.7" x2="428.1" y2="431.31"/>
+      </g>
+    </g>
+    <g id="b_sink">
+      <polygon id="vanity" class="cls-6" points="568.07 439.81 568.07 317.5 604.05 317.39 604.05 439.7 568.07 439.81"/>
+      <rect id="rect" class="cls-6" x="571.62" y="335.65" width="27" height="19.81" rx="1.64" ry="1.64" transform="translate(930.67 -239.56) rotate(90)"/>
+      <rect id="rect-2" data-name="rect" class="cls-6" x="571.62" y="403.21" width="27" height="19.81" rx="1.64" ry="1.64" transform="translate(998.23 -172) rotate(90)"/>
+    </g>
+    <g id="u_stairs_strt">
+      <g id="_15" data-name="15">
+        <line class="cls-6" x1="302.66" y1="659.74" x2="238.49" y2="659.74"/>
+      </g>
+      <g id="_13" data-name="13">
+        <line class="cls-6" x1="302.66" y1="524.74" x2="238.49" y2="524.74"/>
+        <line class="cls-6" x1="302.66" y1="509.74" x2="238.49" y2="509.74"/>
+        <line class="cls-6" x1="302.66" y1="494.74" x2="238.49" y2="494.74"/>
+        <line class="cls-6" x1="302.66" y1="479.74" x2="238.49" y2="479.74"/>
+        <line class="cls-6" x1="302.66" y1="464.74" x2="238.49" y2="464.74"/>
+        <line class="cls-6" x1="302.89" y1="449.67" x2="238.72" y2="449.67"/>
+        <line class="cls-6" x1="302.66" y1="584.74" x2="238.49" y2="584.74"/>
+        <line class="cls-6" x1="302.66" y1="569.74" x2="238.49" y2="569.74"/>
+        <line class="cls-6" x1="302.66" y1="554.74" x2="238.49" y2="554.74"/>
+        <line class="cls-6" x1="302.66" y1="539.74" x2="238.49" y2="539.74"/>
+        <line class="cls-6" x1="302.66" y1="644.74" x2="238.49" y2="644.74"/>
+        <line class="cls-6" x1="302.66" y1="629.74" x2="238.49" y2="629.74"/>
+        <line class="cls-6" x1="302.66" y1="614.74" x2="238.49" y2="614.74"/>
+        <line class="cls-6" x1="302.66" y1="599.74" x2="238.49" y2="599.74"/>
+      </g>
+    </g>
+    <g id="b_toilet">
+      <path class="cls-6" d="M525.11,147.15c0-2.97,1.18-6.66,2.12-9.36.2-.58.77-.98,1.41-.98h16.22c.64,0,1.2.39,1.41.98.94,2.7,2.12,6.39,2.12,9.36,0,.22-.02.43-.02.64,1.96-10.08,1.94-21.91,1.85-26.14-.02-.9-.77-1.62-1.7-1.63l-11.52-.2-12.04.2c-.95.02-1.71.77-1.7,1.69.05,4.75.33,18.56,1.87,26.48h.02c-.01-.35-.03-.69-.03-1.04Z"/>
+      <path class="cls-6" d="M528.63,136.82c-.64,0-1.2.39-1.41.98-.94,2.7-2.12,6.39-2.12,9.36,0,10.39,5.08,17.67,11.64,17.67,6.56,0,11.64-7.28,11.64-17.67,0-2.97-1.18-6.66-2.12-9.36-.2-.58-.77-.98-1.41-.98h-16.22Z"/>
+      <path class="cls-6" d="M550.22,121.67c-.02-.9-.77-1.63-1.7-1.64l-11.52-.2-12.04.2c-.95.02-1.71.77-1.7,1.69,0,.64.02,1.28.04,2,.08,3.02,2.43,5.52,5.53,5.89l.31.04c5.07.61,10.2.61,15.28,0l.31-.04c3.18-.38,5.55-3.01,5.53-6.11,0-.66-.01-1.25-.03-1.83Z"/>
+    </g>
+    <g id="b_toilet-2" data-name="b_toilet">
+      <path class="cls-6" d="M560.83,460.47c2.97,0,6.66,1.18,9.36,2.12.58.2.98.77.98,1.41v16.22c0,.64-.39,1.2-.98,1.41-2.7.94-6.39,2.12-9.36,2.12-.22,0-.43-.02-.64-.02,10.08,1.96,21.91,1.94,26.14,1.85.9-.02,1.62-.77,1.63-1.7l.2-11.52-.2-12.04c-.02-.95-.77-1.71-1.69-1.7-4.75.05-18.56.33-26.48,1.87v.02c.35-.01.69-.03,1.04-.03Z"/>
+      <path class="cls-6" d="M571.17,463.99c0-.64-.39-1.2-.98-1.41-2.7-.94-6.39-2.12-9.36-2.12-10.39,0-17.67,5.08-17.67,11.64s7.28,11.64,17.67,11.64c2.97,0,6.66-1.18,9.36-2.12.58-.2.98-.77.98-1.41v-16.22Z"/>
+      <path class="cls-6" d="M586.32,485.58c.9-.02,1.63-.77,1.64-1.7l.2-11.52-.2-12.04c-.02-.95-.77-1.71-1.69-1.7-.64,0-1.28.02-2,.04-3.02.08-5.52,2.43-5.89,5.53l-.04.31c-.61,5.07-.61,10.2,0,15.28l.04.31c.38,3.18,3.01,5.55,6.11,5.53.66,0,1.25-.01,1.83-.03Z"/>
+    </g>
+    <g id="b_tub">
+      <rect id="cnst-2" data-name="cnst" class="cls-1" x="538.33" y="138.83" width="96.64" height="47.38" transform="translate(424.13 749.17) rotate(-90)"/>
+      <path id="halfround" class="cls-3" d="M559.98,144.88h62.97c2.71,0,4.91,2.2,4.91,4.91v26.33c0,2.71-2.2,4.91-4.91,4.91h-62.97c-8.02,0-14.52-6.51-14.52-14.52v-7.1c0-8.02,6.51-14.52,14.52-14.52Z" transform="translate(749.6 -423.7) rotate(90)"/>
+    </g>
+    <g id="b_sink-2" data-name="b_sink">
+      <polygon id="vanity-2" data-name="vanity" class="cls-6" points="511.53 152.38 435.07 152.38 435 114.13 511.46 114.13 511.53 152.38"/>
+      <rect id="rect-3" data-name="rect" class="cls-6" x="473.75" y="126.18" width="27" height="19.81" rx="1.64" ry="1.64"/>
+    </g>
+    <rect class="cls-6" x="262.64" y="317.39" width="43.38" height="39.91"/>
+    <line class="cls-6" x1="455.65" y1="210.84" x2="455.65" y2="317.7"/>
+    <line class="cls-6" x1="499.51" y1="234.73" x2="499.51" y2="317.7"/>
+    <polyline class="cls-6" points="587.31 317.7 587.31 234.02 535.03 234.02"/>
+    <rect class="cls-6" x="500.37" y="210.84" width="34.67" height="23.18"/>
+  </g>
+  <g id="base">
+    <g>
+      <path class="cls-7" d="M311.21,501.7v48.12c26.58,0,48.12-21.54,48.12-48.12"/>
+      <line class="cls-5" x1="385.24" y1="501.7" x2="359.11" y2="501.7"/>
+      <line class="cls-5" x1="311.44" y1="501.7" x2="302.89" y2="501.7"/>
+    </g>
+    <g>
+      <path class="cls-7" d="M499.03,490.52h42c0-23.19-18.8-42-42-42"/>
+      <polyline class="cls-4" points="592.97 439.39 499.03 439.39 499.03 448.77"/>
+      <polyline class="cls-4" points="499.03 490.27 499.03 501.7 610.42 501.7 610.42 725.35 238.34 725.35 238.34 317.39"/>
+    </g>
+    <g>
+      <path class="cls-7" d="M368.21,491.39l-16-44.63c5.4-1.94,10.92-2.83,16.35-2.79"/>
+      <polyline class="cls-5" points="368.55 444.23 368.55 431.61 434.14 431.61 434.14 501.74 368.55 501.74 368.55 491.13"/>
+    </g>
+    <g>
+      <path class="cls-7" d="M559.98,317.39v-42.69c-23.57,0-42.69,19.11-42.69,42.69"/>
+      <polyline class="cls-4" points="559.74 317.39 610.34 317.39 610.34 210.84 476.48 210.84 476.48 317.39 517.58 317.39"/>
+    </g>
+    <g>
+      <path class="cls-7" d="M314.93,317.39v-45c24.85,0,45,20.15,45,45"/>
+      <line class="cls-4" x1="440.93" y1="317.39" x2="359.62" y2="317.39"/>
+      <polyline class="cls-4" points="315.18 317.39 238.34 317.39 238.34 114.13 435 114.13"/>
+    </g>
+    <g>
+      <path class="cls-7" d="M434.91,202.53h41.57c0-22.96-18.61-41.57-41.57-41.57"/>
+      <polyline class="cls-4" points="435 202.3 435 210.84 610.34 210.84 610.34 114.13 435 114.13 435 161.19"/>
+    </g>
+    <g id="closet_slide">
+      <polyline id="closetframe" class="cls-5" points="435 309 435 317.39 476.3 317.39 476.3 210.84 435 210.84 435 219.86"/>
+      <g id="bipass">
+        <line class="cls-7" x1="432.5" y1="287.69" x2="432.5" y2="243.81"/>
+        <line class="cls-7" x1="435" y1="219.94" x2="435" y2="263.81"/>
+      </g>
+    </g>
+    <g id="wall_pony">
+      <rect class="cls-9" x="292.31" y="455.1" width="21.16" height="4" transform="translate(759.99 154.21) rotate(90)"/>
+    </g>
+    <rect class="cls-5" x="476.48" y="210.84" width="23.89" height="23.89"/>
+    <polygon class="cls-4" points="610.34 317.39 610.34 501.7 591.93 501.7 591.93 439.39 603.65 439.39 603.65 317.39 610.34 317.39"/>
+    <line class="cls-5" x1="441.45" y1="501.7" x2="434.14" y2="501.7"/>
+    <line class="cls-5" x1="499.03" y1="501.7" x2="491.98" y2="501.7"/>
+    <line class="cls-5" x1="368.55" y1="431.61" x2="368.55" y2="317.39"/>
+    <line class="cls-4" x1="302.89" y1="726.1" x2="302.89" y2="467.68"/>
+    <rect class="cls-5" x="238.34" y="317.39" width="24.3" height="43.49"/>
+    <rect class="cls-5" x="532.35" y="725.44" width="56.3" height="12"/>
+    <rect class="cls-5" x="350.67" y="725.44" width="56.3" height="12"/>
+    <rect class="cls-8" x="518.66" y="111.95" width="36" height="5"/>
+    <rect class="cls-8" x="289.59" y="111.95" width="90" height="5"/>
+    <rect class="cls-8" x="415.66" y="723" width="108" height="5"/>
+    <rect class="cls-8" x="253.03" y="722.94" width="36" height="5"/>
+  </g>
+  <g id="default">
+    <g id="b_stnd">
+      <rect class="cls-3" x="255.31" y="149.73" width="89.96" height="117" rx=".67" ry=".67" transform="translate(92.07 508.52) rotate(-90)"/>
+      <g>
+        <rect class="cls-3" x="237.97" y="216.13" width="39.92" height="26.58" rx=".67" ry=".67" transform="translate(28.51 487.34) rotate(-90)"/>
+        <rect class="cls-3" x="237.97" y="173.75" width="39.92" height="26.58" rx=".67" ry=".67" transform="translate(70.88 444.97) rotate(-90)"/>
+      </g>
+      <path class="cls-3" d="M274.15,163.21c-.14.87,0,44.11,0,44.11l16.15,45.49s.05.03.06,0l13.11-22.5-29.32-23.1"/>
+      <line class="cls-3" x1="280.94" y1="212.53" x2="281.14" y2="163.44"/>
+      <line class="cls-3" x1="287.87" y1="218.02" x2="287.87" y2="163.5"/>
+    </g>
+    <g id="b_os">
+      <g id="b_tv">
+        <g id="console">
+          <rect class="cls-6" x="502.5" y="504.89" width="90" height="19.78"/>
+        </g>
+        <g id="tv">
+          <rect class="cls-6" x="515.36" y="513.32" width="64.29" height="4.59"/>
+          <polyline class="cls-6" points="521.82 513.21 523.82 511.48 571.18 511.48 573.29 513.3"/>
+        </g>
+      </g>
+      <g id="os_bedset">
+        <rect class="cls-3" x="528.58" y="693.75" width="27" height="27"/>
+        <rect class="cls-3" x="370.18" y="693.75" width="27" height="27"/>
+        <g id="os_bed">
+          <rect class="cls-3" x="405.64" y="594.48" width="113.94" height="126" rx=".8" ry=".8" transform="translate(925.22 1314.96) rotate(-180)"/>
+          <g>
+            <rect class="cls-3" x="464.16" y="688.8" width="50.56" height="28.62" rx=".8" ry=".8" transform="translate(978.89 1406.22) rotate(-180)"/>
+            <rect class="cls-3" x="410.5" y="688.8" width="50.56" height="28.62" rx=".8" ry=".8" transform="translate(871.55 1406.22) rotate(-180)"/>
+          </g>
+          <path class="cls-3" d="M405.59,685.64h55.88s57.59-17.39,57.59-17.39c.04-.01.05-.07,0-.09l-28.47-14.1-29.26,31.58"/>
+          <line class="cls-3" x1="468.06" y1="678.32" x2="405.59" y2="678.11"/>
+          <line class="cls-3" x1="475.05" y1="670.86" x2="405.59" y2="670.86"/>
+        </g>
+      </g>
+    </g>
+    <text class="cls-10" transform="translate(479.05 391.6)"><tspan x="0" y="0">Bath</tspan></text>
+    <text class="cls-10" transform="translate(500.53 170.52)"><tspan x="0" y="0">Bath 2</tspan></text>
+    <text class="cls-10" transform="translate(491.15 263.41)"><tspan x="0" y="0">Walk-In Closet</tspan></text>
+    <text class="cls-10" transform="translate(368.27 466.19)"><tspan x="0" y="0">Laundry</tspan></text>
+    <text class="cls-10" transform="translate(414.37 615.82)"><tspan x="0" y="0">Owner’s Suite</tspan></text>
+    <text class="cls-10" transform="translate(297.54 211.67)"><tspan x="0" y="0">Bedroom 2</tspan></text>
+  </g>
+  <g id="dimensions">
+    <text class="cls-10" transform="translate(479.05 391.6)"><tspan x="0" y="0">Bath</tspan></text>
+    <text class="cls-10" transform="translate(500.53 170.52)"><tspan x="0" y="0">Bath 2</tspan></text>
+    <text class="cls-10" transform="translate(491.15 263.41)"><tspan x="0" y="0">Walk-In Closet</tspan></text>
+    <text class="cls-10" transform="translate(368.27 466.19)"><tspan x="0" y="0">Laundry</tspan></text>
+    <text class="cls-10" transform="translate(414.37 615.82)"><tspan x="0" y="0">Owner’s Suite</tspan></text>
+    <text class="cls-10" transform="translate(297.54 211.67)"><tspan x="0" y="0">Bedroom 2</tspan></text>
+    <text class="cls-10" transform="translate(425.36 633.96)"><tspan x="0" y="0">16&apos; 6&quot; x 12&apos;</tspan></text>
+    <text class="cls-10" transform="translate(288.35 229.82)"><tspan x="0" y="0">10&apos; 6&quot; x 10&apos; 6&quot;</tspan></text>
+  </g>
+  <g id="walkthrough">
+    <polygon id="bed2bath2" class="cls-2" points="610.34 114.13 238.34 114.13 238.34 317.39 476.48 317.39 476.48 210.84 610.34 210.84 610.34 114.13"/>
+    <polygon id="owners" class="cls-2" points="610.42 725.35 610.42 210.84 476.48 210.84 476.48 317.39 368.55 317.39 368.55 431.31 434.14 431.31 434.14 501.7 302.89 501.7 302.89 725.5 610.42 725.35"/>
+    <rect id="laundry" class="cls-2" x="368.55" y="431.61" width="65.59" height="70.09"/>
+  </g>
+</svg>
